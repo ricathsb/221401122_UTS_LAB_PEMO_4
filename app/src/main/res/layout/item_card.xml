@@ -17,7 +17,7 @@
             android:id="@+id/itemTitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Item Title"
+            android:text="@string/item_title"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -25,7 +25,7 @@
             android:id="@+id/itemDescription"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Item Description"
+            android:text="@string/item_description"
             android:textSize="14sp" />
 
     </LinearLayout>

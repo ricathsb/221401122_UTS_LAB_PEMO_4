@@ -1,14 +1,16 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="detail_description">Detail Description</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="item_title">Item Title</string>
+    <string name="item_description">Item Description</string>
 
-    <!-- Array untuk judul item -->
     <string-array name="item_titles">
         <item>Title 1</item>
         <item>Title 2</item>
         <item>Title 3</item>
     </string-array>
 
-    <!-- Array untuk deskripsi item -->
     <string-array name="item_descriptions">
         <item>Description 1</item>
         <item>Description 2</item>

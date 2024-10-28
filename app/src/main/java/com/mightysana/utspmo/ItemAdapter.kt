@@ -9,7 +9,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class ItemAdapter(private val context: Context, private val itemList: List<Item>) :
+class ItemAdapter(private val context: Context, private val playerList: List<Player>) :
     RecyclerView.Adapter<ItemAdapter.ViewHolder>() {
 
     inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
@@ -24,20 +24,18 @@ class ItemAdapter(private val context: Context, private val itemList: List<Item>
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val item = itemList[position]
-        holder.itemTitle.text = item.title
-        holder.itemDescription.text = item.description
+        val item = playerList[position]
+        holder.itemTitle.text = item.name
+        holder.itemDescription.text = item.position
         holder.itemImage.setImageResource(item.imageResId)
 
         holder.itemView.setOnClickListener {
             val intent = Intent(context, DetailActivity::class.java).apply {
-                putExtra("title", item.title)
-                putExtra("description", item.description)
-                putExtra("imageResId", item.imageResId)
+                putExtra("player",item)
             }
             context.startActivity(intent)
         }
     }
 
-    override fun getItemCount() = itemList.size
+    override fun getItemCount() = playerList.size
 }

@@ -2,22 +2,201 @@
 <!-- res/values/arrays.xml -->
 <resources>
 
-    <array name="item_images">
-        <item>@drawable/gregor_kobel</item>
-        <item>@drawable/ic_launcher_foreground</item>
-        <item>@drawable/gregor_kobel</item>
-    </array>
-
-    <string-array name="item_titles">
-        <item>Title 1</item>
-        <item>Title 2</item>
-        <item>Title 3</item>
+    <string-array name="player_name">
+        <item>Gregor Kobel</item>
+        <item>Marcel Lotka</item>
+        <item>Alexander Meyer</item>
+        <item>Nico Schlotterbeck</item>
+        <item>Waldemar Anton</item>
+        <item>Niklas Sule</item>
+        <item>Filippo Mane</item>
+        <item>Ramy Bensebaini</item>
+        <item>Algumera Kabar</item>
+        <item>Yan Couto</item>
+        <item>Julian Ryeson</item>
+        <item>Emre Can</item>
+        <item>Felix Nmecha</item>
+        <item>Marcel Sabitzer</item>
+        <item>Pascal Groß</item>
+        <item>Kjell Watjen</item>
+        <item>Julian Brandt</item>
+        <item>Giovanni Reyna</item>
+        <item>Karim Adeyemi</item>
+        <item>Jamie Gittens</item>
+        <item>Donyell Malen</item>
+        <item>Julien Duranville</item>
+        <item>Cole Campbell</item>
+        <item>Serhou Guirassy</item>
+        <item>Maximilian Beirer</item>
     </string-array>
 
-    <string-array name="item_descriptions">
-        <item>Description 1</item>
-        <item>Description 2</item>
-        <item>Description 3</item>
+    <string-array name="player_position">
+        <item>GK</item>
+        <item>GK</item>
+        <item>GK</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>LB</item>
+        <item>LB</item>
+        <item>RB</item>
+        <item>RB</item>
+        <item>DMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>AMF</item>
+        <item>AMF</item>
+        <item>LWF</item>
+        <item>LWF</item>
+        <item>RWF</item>
+        <item>RWF</item>
+        <item>RWF</item>
+        <item>CF</item>
+        <item>CF</item>
+    </string-array>
+
+    <string-array name="player_images">
+        <item>@drawable/gregor_kobel</item>
+        <item>@drawable/marcel_lotka</item>
+        <item>@drawable/alexader_meyer</item>
+        <item>@drawable/nico_schlotterback</item>
+        <item>@drawable/waldemar_anton</item>
+        <item>@drawable/niklas_sule</item>
+        <item>@drawable/filippo_mane</item>
+        <item>@drawable/ramy_bensebaini</item>
+        <item>@drawable/almugera_kabar</item>
+        <item>@drawable/yan_couto</item>
+        <item>@drawable/julian_ryerson</item>
+        <item>@drawable/emre_can</item>
+        <item>@drawable/felix_nmecha</item>
+        <item>@drawable/marcel_sabitzer</item>
+        <item>@drawable/pascal_gross</item>
+        <item>@drawable/kjell_watjen</item>
+        <item>@drawable/julian_brandt</item>
+        <item>@drawable/giovanni_reyna</item>
+        <item>@drawable/karim_adeyemi</item>
+        <item>@drawable/jamie_gittens</item>
+        <item>@drawable/donyell_malen</item>
+        <item>@drawable/julian_duranville</item>
+        <item>@drawable/cole_campbell</item>
+        <item>@drawable/serhou_guirassy</item>
+        <item>@drawable/maximilian_beier</item>
+    </string-array>
+
+
+    <string-array name="player_nationality">
+        <item>Switzerland</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Algeria</item>
+        <item>Germany</item>
+        <item>Brazil</item>
+        <item>Norway</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Austria</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>United States</item>
+        <item>Germany</item>
+        <item>England</item>
+        <item>Netherlands</item>
+        <item>Belgium</item>
+        <item>United States</item>
+        <item>Guinea</item>
+        <item>Germany</item>
+    </string-array>
+
+    <string-array name="player_birth_date">
+        <item>1997–12–6</item>
+        <item>2001–5–25</item>
+        <item>1991–4–13</item>
+        <item>1999-12-1</item>
+        <item>1996-7-20</item>
+        <item>1995-9-3</item>
+        <item>2005-3-8</item>
+        <item>1995-4-16</item>
+        <item>2006-6-6</item>
+        <item>2002-6-3</item>
+        <item>1997-11-17</item>
+        <item>1994-1-12</item>
+        <item>2000-10-10</item>
+        <item>1994-3-17</item>
+        <item>1991-6-15</item>
+        <item>2006-2-16</item>
+        <item>1996-5-2</item>
+        <item>2002–11–12</item>
+        <item>2002–1–18</item>
+        <item>2004-8-8</item>
+        <item>1999-1-19</item>
+        <item>2006-5-5</item>
+        <item>2006-2-20</item>
+        <item>1996-5-12</item>
+        <item>2002-10-17</item>
+    </string-array>
+
+    <string-array name="player_height">
+        <item>196</item>
+        <item>190</item>
+        <item>195</item>
+        <item>191</item>
+        <item>189</item>
+        <item>195</item>
+        <item>188</item>
+        <item>187</item>
+        <item>186</item>
+        <item>168</item>
+        <item>183</item>
+        <item>186</item>
+        <item>190</item>
+        <item>178</item>
+        <item>181</item>
+        <item>183</item>
+        <item>185</item>
+        <item>185</item>
+        <item>180</item>
+        <item>177</item>
+        <item>176</item>
+        <item>173</item>
+        <item>170</item>
+        <item>187</item>
+        <item>185</item>
+    </string-array>
+
+    <string-array name="player_market_value">
+        <item>40.0</item>
+        <item>1.3</item>
+        <item>0.8</item>
+        <item>40.0</item>
+        <item>24.0</item>
+        <item>15.0</item>
+        <item>0.4</item>
+        <item>7.0</item>
+        <item>1.0</item>
+        <item>25.0</item>
+        <item>20.0</item>
+        <item>10.0</item>
+        <item>20.0</item>
+        <item>20.0</item>
+        <item>8.0</item>
+        <item>2.0</item>
+        <item>40.0</item>
+        <item>12.0</item>
+        <item>35.0</item>
+        <item>35.0</item>
+        <item>40.0</item>
+        <item>8.5</item>
+        <item>0.3</item>
+        <item>40.0</item>
+        <item>30.0</item>
     </string-array>
 
 </resources>

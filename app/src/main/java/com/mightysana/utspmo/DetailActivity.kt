@@ -5,6 +5,9 @@ import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import java.time.LocalDate
+import java.time.Period
+import java.time.format.DateTimeFormatter
 
 class DetailActivity : AppCompatActivity() {
 
@@ -32,16 +35,12 @@ class DetailActivity : AppCompatActivity() {
             titleTextView.text = it.name
             positionTextView.text = it.position
             nationalityTextView.text = it.nationality
-            birthDateTextView.text = it.birthDate
+            birthDateTextView.text = "${it.birthDate} (${it.birthDate.age()})"
             heightTextView.text = "${it.height} cm"
             numberTextView.text = it.number.toString()
 
             // Set market value with conditional formatting
-            val marketValueText = if (it.marketValue < 1.0) {
-                "€${(it.marketValue * 1000).toInt()}k"
-            } else {
-                "€${it.marketValue} million"
-            }
+            val marketValueText = it.marketValue.formatAsCurrency()
             marketValueTextView.text = marketValueText
 
             // Set image if available
@@ -52,4 +51,18 @@ class DetailActivity : AppCompatActivity() {
             }
         }
     }
+}
+
+fun Double.formatAsCurrency(): String {
+    return if (this < 1.0) {
+        "€${(this * 1000).toInt()}k"
+    } else {
+        "€${this} million"
+    }
+}
+
+fun String.age(): String {
+    val today = LocalDate.now()
+    val birthday = LocalDate.parse(this, DateTimeFormatter.ofPattern("yyyy-MM-dd"))
+    return "${Period.between(birthday, today).years} years old"
 }

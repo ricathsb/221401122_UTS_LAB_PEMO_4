@@ -9,8 +9,6 @@ data class Player(
     val birthDate: String,
     val height: String,
     val number : Int,
-//    val age: Int,
-//    val weight: String,
     val marketValue: Double,
 ) : Serializable
 

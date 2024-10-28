@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import android.view.View
 import android.widget.AdapterView
+import androidx.activity.enableEdgeToEdge
 
 class MainActivity : AppCompatActivity() {
 
@@ -15,6 +16,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var playerList: List<Player>
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        enableEdgeToEdge()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
@@ -41,7 +43,7 @@ class MainActivity : AppCompatActivity() {
                 number = numbers[index],
                 marketValue = marketValues[index].toDouble()
             )
-        }
+        }.sortedByDescending { it.marketValue }
 
         images.recycle()
 
@@ -53,8 +55,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun setupPositionFilter() {
         val positionSpinner = findViewById<Spinner>(R.id.positionSpinner)
+        val positions = listOf("All", "GK", "Defender", "Midfielder", "Forward")
 
-        val positions = listOf("All", "AMF", "CB", "GK", "DMF", "CMF", "LWF", "RWF", "CF")
         val spinnerAdapter = ArrayAdapter(this, android.R.layout.simple_spinner_item, positions)
         spinnerAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
         positionSpinner.adapter = spinnerAdapter
@@ -72,10 +74,18 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun filterByPosition(position: String) {
+
+        val positions = mapOf(
+            "GK" to listOf("GK"),
+            "Defender" to listOf("CB", "LB", "RB"),
+            "Midfielder" to listOf("DMF", "CMF", "AMF", "RMF", "LMF"),
+            "Forward" to listOf("LWF", "RWF", "SS", "CF")
+        )
+
         val filteredList = if (position == "All") {
             playerList
         } else {
-            playerList.filter { it.position == position }
+            playerList.filter { it.position in positions[position]!! }
         }
         adapter.updateData(filteredList)
     }

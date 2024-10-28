@@ -1,6 +1,6 @@
 package com.mightysana.utspmo
-
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -14,14 +14,19 @@ class MainActivity : AppCompatActivity() {
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerView)
         recyclerView.layoutManager = LinearLayoutManager(this)
 
-        // Retrieve titles and descriptions from strings.xml
         val titles = resources.getStringArray(R.array.item_titles)
         val descriptions = resources.getStringArray(R.array.item_descriptions)
+        val images = resources.obtainTypedArray(R.array.item_images)
 
-        // Combine them into itemList
-        val itemList = titles.zip(descriptions) { title, description ->
-            Item(title, description)
+        val itemList = titles.indices.map { index ->
+            Item(
+                title = titles[index],
+                description = descriptions[index],
+                imageResId = images.getResourceId(index, -1)
+            )
         }
+
+        images.recycle()
 
         val adapter = ItemAdapter(this, itemList)
         recyclerView.adapter = adapter

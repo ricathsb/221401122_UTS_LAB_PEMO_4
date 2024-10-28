@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/arrays.xml -->
+<resources>
+
+    <array name="item_images">
+        <item>@drawable/gregor_kobel</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/gregor_kobel</item>
+    </array>
+
+    <string-array name="item_titles">
+        <item>Title 1</item>
+        <item>Title 2</item>
+        <item>Title 3</item>
+    </string-array>
+
+    <string-array name="item_descriptions">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+    </string-array>
+
+</resources>

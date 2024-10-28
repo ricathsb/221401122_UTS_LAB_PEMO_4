@@ -17,6 +17,7 @@ class ItemAdapter(private val context: Context, private var playerList: List<Pla
         val itemTitle: TextView = itemView.findViewById(R.id.itemTitle)
         val itemDescription: TextView = itemView.findViewById(R.id.itemDescription)
         val itemImage: ImageView = itemView.findViewById(R.id.itemImage)
+        val itemNumber: TextView = itemView.findViewById(R.id.itemNumber)
     }
 
     // Inflates the item layout and returns the ViewHolder
@@ -31,6 +32,7 @@ class ItemAdapter(private val context: Context, private var playerList: List<Pla
         holder.itemTitle.text = player.name
         holder.itemDescription.text = player.position
         holder.itemImage.setImageResource(player.imageResId)
+        holder.itemNumber.text = player.number.toString()
 
         // Sets a click listener on each item to open DetailActivity with the selected player
         holder.itemView.setOnClickListener {

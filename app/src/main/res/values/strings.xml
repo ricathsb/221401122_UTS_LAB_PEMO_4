@@ -5,4 +5,5 @@
     <string name="item_title">Item Title</string>
     <string name="item_description">Item Description</string>
     <string name="item_image">Item Image</string>
+    <string name="position_spinner_hint">Filter by Position</string>
 </resources>

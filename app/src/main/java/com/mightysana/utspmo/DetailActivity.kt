@@ -25,6 +25,7 @@ class DetailActivity : AppCompatActivity() {
         val heightTextView: TextView = findViewById(R.id.detailHeight)
         val marketValueTextView: TextView = findViewById(R.id.detailMarketValue)
         val imageView: ImageView = findViewById(R.id.itemImage)
+        val numberTextView: TextView = findViewById(R.id.itemNumber)
 
         // Set the player data to views
         player?.let {
@@ -33,6 +34,7 @@ class DetailActivity : AppCompatActivity() {
             nationalityTextView.text = it.nationality
             birthDateTextView.text = it.birthDate
             heightTextView.text = "${it.height} cm"
+            numberTextView.text = it.number.toString()
 
             // Set market value with conditional formatting
             val marketValueText = if (it.marketValue < 1.0) {

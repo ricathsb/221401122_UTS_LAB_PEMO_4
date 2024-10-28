@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         val birthDates = resources.getStringArray(R.array.player_birth_date)
         val heights = resources.getStringArray(R.array.player_height)
         val marketValues = resources.getStringArray(R.array.player_market_value)
+        val numbers = resources.getStringArray(R.array.player_number).map { it.toDoubleOrNull()?.toInt() ?: 0 }
 
         playerList = titles.indices.map { index ->
             Player(
@@ -37,6 +38,7 @@ class MainActivity : AppCompatActivity() {
                 nationality = nationalities[index],
                 birthDate = birthDates[index],
                 height = heights[index],
+                number = numbers[index],
                 marketValue = marketValues[index].toDouble()
             )
         }

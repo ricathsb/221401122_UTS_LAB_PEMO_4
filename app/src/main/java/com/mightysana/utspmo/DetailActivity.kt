@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.Toolbar
 import java.time.LocalDate
 import java.time.Period
 import java.time.format.DateTimeFormatter
@@ -15,6 +16,14 @@ class DetailActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
+
+        val toolbar = findViewById<Toolbar>(R.id.toolbar)
+        setSupportActionBar(toolbar)
+        supportActionBar?.setDisplayHomeAsUpEnabled(true) // Menampilkan tombol back
+
+        toolbar.setNavigationOnClickListener {
+            onBackPressed() // Mengatur tombol back untuk kembali ke aktivitas sebelumnya
+        }
 
         // Retrieve the Player object passed through the intent
         val player = intent.getSerializableExtra("player") as? Player

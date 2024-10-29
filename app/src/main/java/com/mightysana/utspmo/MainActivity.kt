@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 import android.view.View
 import android.widget.AdapterView
 import androidx.activity.enableEdgeToEdge
+import androidx.appcompat.widget.Toolbar
 
 class MainActivity : AppCompatActivity() {
 
@@ -16,9 +17,17 @@ class MainActivity : AppCompatActivity() {
     private lateinit var playerList: List<Player>
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        enableEdgeToEdge()
+//        enableEdgeToEdge()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val toolbar = findViewById<Toolbar>(R.id.toolbar)
+        setSupportActionBar(toolbar)
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
+        toolbar.setNavigationOnClickListener {
+            onBackPressed()
+        }
 
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerView)
         recyclerView.layoutManager = LinearLayoutManager(this)

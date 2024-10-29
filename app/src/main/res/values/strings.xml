@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">MyApp</string>
+    <string name="app_name">Gregor Manifest</string>
     <string name="detail_description">Detail Description</string>
     <string name="detail_title">Detail Title</string>
     <string name="item_title">Item Title</string>
     <string name="item_description">Item Description</string>
     <string name="item_image">Item Image</string>
     <string name="position_spinner_hint">Filter by Position</string>
+    <string name="player_list">Player List</string>
 </resources>

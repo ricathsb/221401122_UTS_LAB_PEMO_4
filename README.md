@@ -29,7 +29,7 @@ Pengguna dapat memfilter pemain berdasarkan posisi mereka. Misalnya:
 ## Cara Menjalankan Aplikasi
 
 1. **Download Aplikasi**:
-    - Kunjungi [halaman Release](https://github.com/username/repository/releases) untuk mendownload versi terbaru aplikasi.
+    - Kunjungi [halaman Release](https://github.com/ricathsb/221401122_UTS_LAB_PEMO_4/releases) untuk mendownload versi terbaru aplikasi.
     - Unduh file APK untuk perangkat Android Anda.
 
 2. **Instalasi**:

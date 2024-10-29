@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player_birth_date">
+        <item>1997-12-06</item>
+        <item>2001-05-25</item>
+        <item>1991-04-13</item>
+        <item>1999-12-01</item>
+        <item>1996-07-20</item>
+        <item>1995-09-03</item>
+        <item>2005-03-08</item>
+        <item>1995-04-16</item>
+        <item>2006-06-06</item>
+        <item>2002-06-03</item>
+        <item>1997-11-17</item>
+        <item>1994-01-12</item>
+        <item>2000-10-10</item>
+        <item>1994-03-17</item>
+        <item>1991-06-15</item>
+        <item>2006-02-16</item>
+        <item>1996-05-02</item>
+        <item>2002-11-12</item>
+        <item>2002-01-18</item>
+        <item>2004-08-08</item>
+        <item>1999-01-19</item>
+        <item>2006-05-05</item>
+        <item>2006-02-20</item>
+        <item>1996-05-12</item>
+        <item>2002-10-17</item>
+    </string-array>
+    <string-array name="player_height">
+        <item>196</item>
+        <item>190</item>
+        <item>195</item>
+        <item>191</item>
+        <item>189</item>
+        <item>195</item>
+        <item>188</item>
+        <item>187</item>
+        <item>186</item>
+        <item>168</item>
+        <item>183</item>
+        <item>186</item>
+        <item>190</item>
+        <item>178</item>
+        <item>181</item>
+        <item>183</item>
+        <item>185</item>
+        <item>185</item>
+        <item>180</item>
+        <item>177</item>
+        <item>176</item>
+        <item>173</item>
+        <item>170</item>
+        <item>187</item>
+        <item>185</item>
+    </string-array>
+    <string-array name="player_images">
+        <item>@drawable/gregor_kobel</item>
+        <item>@drawable/marcel_lotka</item>
+        <item>@drawable/alexader_meyer</item>
+        <item>@drawable/nico_schlotterback</item>
+        <item>@drawable/waldemar_anton</item>
+        <item>@drawable/niklas_sule</item>
+        <item>@drawable/filippo_mane</item>
+        <item>@drawable/ramy_bensebaini</item>
+        <item>@drawable/almugera_kabar</item>
+        <item>@drawable/yan_couto</item>
+        <item>@drawable/julian_ryerson</item>
+        <item>@drawable/emre_can</item>
+        <item>@drawable/felix_nmecha</item>
+        <item>@drawable/marcel_sabitzer</item>
+        <item>@drawable/pascal_gross</item>
+        <item>@drawable/kjell_watjen</item>
+        <item>@drawable/julian_brandt</item>
+        <item>@drawable/giovanni_reyna</item>
+        <item>@drawable/karim_adeyemi</item>
+        <item>@drawable/jamie_gittens</item>
+        <item>@drawable/donyell_malen</item>
+        <item>@drawable/julian_duranville</item>
+        <item>@drawable/cole_campbell</item>
+        <item>@drawable/serhou_guirassy</item>
+        <item>@drawable/maximilian_beier</item>
+    </string-array>
+    <string-array name="player_market_value">
+        <item>40.0</item>
+        <item>1.3</item>
+        <item>0.8</item>
+        <item>40.0</item>
+        <item>24.0</item>
+        <item>15.0</item>
+        <item>0.4</item>
+        <item>7.0</item>
+        <item>1.0</item>
+        <item>25.0</item>
+        <item>20.0</item>
+        <item>10.0</item>
+        <item>20.0</item>
+        <item>20.0</item>
+        <item>8.0</item>
+        <item>2.0</item>
+        <item>40.0</item>
+        <item>12.0</item>
+        <item>35.0</item>
+        <item>35.0</item>
+        <item>40.0</item>
+        <item>8.5</item>
+        <item>0.3</item>
+        <item>40.0</item>
+        <item>30.0</item>
+    </string-array>
+    <string-array name="player_name">
+        <item>Gregor Kobel</item>
+        <item>Marcel Lotka</item>
+        <item>Alexander Meyer</item>
+        <item>Nico Schlotterbeck</item>
+        <item>Waldemar Anton</item>
+        <item>Niklas Sule</item>
+        <item>Filippo Mane</item>
+        <item>Ramy Bensebaini</item>
+        <item>Algumera Kabar</item>
+        <item>Yan Couto</item>
+        <item>Julian Ryeson</item>
+        <item>Emre Can</item>
+        <item>Felix Nmecha</item>
+        <item>Marcel Sabitzer</item>
+        <item>Pascal Groß</item>
+        <item>Kjell Watjen</item>
+        <item>Julian Brandt</item>
+        <item>Giovanni Reyna</item>
+        <item>Karim Adeyemi</item>
+        <item>Jamie Gittens</item>
+        <item>Donyell Malen</item>
+        <item>Julien Duranville</item>
+        <item>Cole Campbell</item>
+        <item>Serhou Guirassy</item>
+        <item>Maximilian Beirer</item>
+    </string-array>
+    <string-array name="player_nationality">
+        <item>Switzerland</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Algeria</item>
+        <item>Germany</item>
+        <item>Brazil</item>
+        <item>Norway</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Austria</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>United States</item>
+        <item>Germany</item>
+        <item>England</item>
+        <item>Netherlands</item>
+        <item>Belgium</item>
+        <item>United States</item>
+        <item>Guinea</item>
+        <item>Germany</item>
+    </string-array>
+    <string-array name="player_number">
+        <item>1</item>
+        <item>35</item>
+        <item>33</item>
+        <item>4</item>
+        <item>3</item>
+        <item>25</item>
+        <item>39</item>
+        <item>5</item>
+        <item>42</item>
+        <item>2</item>
+        <item>26</item>
+        <item>23</item>
+        <item>8</item>
+        <item>20</item>
+        <item>13</item>
+        <item>38</item>
+        <item>10</item>
+        <item>7</item>
+        <item>27</item>
+        <item>43</item>
+        <item>21</item>
+        <item>16</item>
+        <item>37</item>
+        <item>9</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="player_position">
+        <item>GK</item>
+        <item>GK</item>
+        <item>GK</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>LB</item>
+        <item>LB</item>
+        <item>RB</item>
+        <item>RB</item>
+        <item>DMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>AMF</item>
+        <item>AMF</item>
+        <item>LWF</item>
+        <item>LWF</item>
+        <item>RWF</item>
+        <item>RWF</item>
+        <item>RWF</item>
+        <item>CF</item>
+        <item>CF</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="cyan">#00FFFF00</color>
+    <color name="drt_background">#FDFDFD</color>
+    <color name="gg_background">#3A2F2E</color>
+    <color name="gray">#1B1B1B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">BVB 09</string>
+    <string name="avg_term_as_coach_1_31_years">Avg. term as coach : 1.31 years</string>
+    <string name="birth_date_1988_9_5_36_years_old">Birth Date: 1988-9-5 (36 years old)</string>
+    <string name="coaching_licence_uefa_a_licence">Coaching Licence : UEFA A Licence</string>
+    <string name="detail_description">Detail Description</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_image">Item Image</string>
+    <string name="item_title">Item Title</string>
+    <string name="manager">Position: manager</string>
+    <string name="manager_name">Nuri Sahin</string>
+    <string name="nationality_turkiye">Nationality: Turkiye</string>
+    <string name="player_list">Player List</string>
+    <string name="position_spinner_hint">Filter by Position</string>
+    <string name="preferred_formation_4_2_3_1">Preferred Formation : 4-2-3-1</string>
+    <string name="title2">Borussia Dortmund Squad List 24/25</string>
+    <style name="Base.Theme.UtsPmo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="colorPrimary">#000000</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorPrimaryDark">#BDBDBD</item>
+        <item name="colorAccent">#FF5722</item>
+    </style>
+    <style name="Theme.UtsPmo" parent="Base.Theme.UtsPmo"/>
+</resources>

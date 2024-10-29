@@ -1,0 +1,34 @@
+com.mightysana.utspmo.app-pngs-0 C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\build\generated\res\pngs\debug
+com.mightysana.utspmo.app-resValues-1 C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\build\generated\res\resValues\debug
+com.mightysana.utspmo.app-packageDebugResources-2 C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mightysana.utspmo.app-packageDebugResources-3 C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mightysana.utspmo.app-debug-4 C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.mightysana.utspmo.app-debug-5 C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\debug\res
+com.mightysana.utspmo.app-main-6 C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res
+com.mightysana.utspmo.app-viewpager2-1.0.0-7 C:\Users\ricat\.gradle\caches\transforms-4\0235811d6553d80c5b8878fd55cb3bb4\transformed\viewpager2-1.0.0\res
+com.mightysana.utspmo.app-core-1.13.1-8 C:\Users\ricat\.gradle\caches\transforms-4\0af1391e302a7d8580d9dc7d719cb5b4\transformed\core-1.13.1\res
+com.mightysana.utspmo.app-recyclerview-1.1.0-9 C:\Users\ricat\.gradle\caches\transforms-4\0fb5fa904b1a570b3bf44109a38684ad\transformed\recyclerview-1.1.0\res
+com.mightysana.utspmo.app-constraintlayout-2.1.4-10 C:\Users\ricat\.gradle\caches\transforms-4\1598b8b733d0747cf2cc94ac2132127f\transformed\constraintlayout-2.1.4\res
+com.mightysana.utspmo.app-annotation-experimental-1.4.0-11 C:\Users\ricat\.gradle\caches\transforms-4\197eb38683d2da10f3b9097b77fcebd8\transformed\annotation-experimental-1.4.0\res
+com.mightysana.utspmo.app-fragment-1.5.4-12 C:\Users\ricat\.gradle\caches\transforms-4\1e4410842be6f12b1f14ea3a1f3f5436\transformed\fragment-1.5.4\res
+com.mightysana.utspmo.app-emoji2-1.3.0-13 C:\Users\ricat\.gradle\caches\transforms-4\2b95a855ead16e6dbadd9e6eb29ac2c7\transformed\emoji2-1.3.0\res
+com.mightysana.utspmo.app-lifecycle-runtime-2.6.2-14 C:\Users\ricat\.gradle\caches\transforms-4\4af9f59896eadb8e02af36e027c68501\transformed\lifecycle-runtime-2.6.2\res
+com.mightysana.utspmo.app-activity-1.9.3-15 C:\Users\ricat\.gradle\caches\transforms-4\516309fa93c8a8aa9aec069833e1583a\transformed\activity-1.9.3\res
+com.mightysana.utspmo.app-lifecycle-livedata-core-2.6.2-16 C:\Users\ricat\.gradle\caches\transforms-4\604ce37561e0318d393f2cad7699d865\transformed\lifecycle-livedata-core-2.6.2\res
+com.mightysana.utspmo.app-cardview-1.0.0-17 C:\Users\ricat\.gradle\caches\transforms-4\63b974582ba27c2a085d11b5951213ed\transformed\cardview-1.0.0\res
+com.mightysana.utspmo.app-lifecycle-viewmodel-savedstate-2.6.2-18 C:\Users\ricat\.gradle\caches\transforms-4\69efc0a3bbe447081d5d60233dcd328b\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.mightysana.utspmo.app-savedstate-1.2.1-19 C:\Users\ricat\.gradle\caches\transforms-4\6d41cf611453c8da7b52763ef6a71c34\transformed\savedstate-1.2.1\res
+com.mightysana.utspmo.app-drawerlayout-1.1.1-20 C:\Users\ricat\.gradle\caches\transforms-4\748bcc7e7217f786159a52a833c3c29f\transformed\drawerlayout-1.1.1\res
+com.mightysana.utspmo.app-transition-1.5.0-21 C:\Users\ricat\.gradle\caches\transforms-4\81f08aaa2ae5f55c1a1f6a719f0feb11\transformed\transition-1.5.0\res
+com.mightysana.utspmo.app-material-1.12.0-22 C:\Users\ricat\.gradle\caches\transforms-4\87bace873d8b5a6d1ed89701b4619c93\transformed\material-1.12.0\res
+com.mightysana.utspmo.app-core-ktx-1.13.1-23 C:\Users\ricat\.gradle\caches\transforms-4\89c753346aff1f55876548a4fc806c23\transformed\core-ktx-1.13.1\res
+com.mightysana.utspmo.app-lifecycle-livedata-2.6.2-24 C:\Users\ricat\.gradle\caches\transforms-4\8ac3ca0116c0cdadb3fbd9aa525a7cd7\transformed\lifecycle-livedata-2.6.2\res
+com.mightysana.utspmo.app-appcompat-1.7.0-25 C:\Users\ricat\.gradle\caches\transforms-4\a54659ae6c2a31ba84524fcbb5cd6eb5\transformed\appcompat-1.7.0\res
+com.mightysana.utspmo.app-profileinstaller-1.3.1-26 C:\Users\ricat\.gradle\caches\transforms-4\aaf45751cab3fecd16ea3a01f06318e5\transformed\profileinstaller-1.3.1\res
+com.mightysana.utspmo.app-lifecycle-process-2.6.2-27 C:\Users\ricat\.gradle\caches\transforms-4\c37614bfe8a2d787c9deb2441c74c66f\transformed\lifecycle-process-2.6.2\res
+com.mightysana.utspmo.app-startup-runtime-1.1.1-28 C:\Users\ricat\.gradle\caches\transforms-4\cc58a66539597fc508bddd923089b824\transformed\startup-runtime-1.1.1\res
+com.mightysana.utspmo.app-core-runtime-2.2.0-29 C:\Users\ricat\.gradle\caches\transforms-4\e4f6f3ca5919b4897d939f7666d144b7\transformed\core-runtime-2.2.0\res
+com.mightysana.utspmo.app-lifecycle-viewmodel-2.6.2-30 C:\Users\ricat\.gradle\caches\transforms-4\f21814c1628020fa63849992f2a85cfb\transformed\lifecycle-viewmodel-2.6.2\res
+com.mightysana.utspmo.app-emoji2-views-helper-1.3.0-31 C:\Users\ricat\.gradle\caches\transforms-4\fb7089b56bacdfaa6456ba2f2bce3dd7\transformed\emoji2-views-helper-1.3.0\res
+com.mightysana.utspmo.app-coordinatorlayout-1.1.0-32 C:\Users\ricat\.gradle\caches\transforms-4\fed2ead7ddcd8aabcb95c921c21f69e4\transformed\coordinatorlayout-1.1.0\res
+com.mightysana.utspmo.app-appcompat-resources-1.7.0-33 C:\Users\ricat\.gradle\caches\transforms-4\ff0576141cf5a80bffd3388466aeba5b\transformed\appcompat-resources-1.7.0\res

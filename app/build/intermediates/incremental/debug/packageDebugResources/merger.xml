@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res"><file name="alexader_meyer" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\alexader_meyer.webp" qualifiers="" type="drawable"/><file name="almugera_kabar" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\almugera_kabar.webp" qualifiers="" type="drawable"/><file name="cole_campbell" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\cole_campbell.webp" qualifiers="" type="drawable"/><file name="donyell_malen" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\donyell_malen.webp" qualifiers="" type="drawable"/><file name="dortmund" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\dortmund.jpg" qualifiers="" type="drawable"/><file name="download" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\download.png" qualifiers="" type="drawable"/><file name="emre_can" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\emre_can.webp" qualifiers="" type="drawable"/><file name="felix_nmecha" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\felix_nmecha.webp" qualifiers="" type="drawable"/><file name="filippo_mane" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\filippo_mane.webp" qualifiers="" type="drawable"/><file name="giovanni_reyna" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\giovanni_reyna.webp" qualifiers="" type="drawable"/><file name="gregor_kobel" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\gregor_kobel.webp" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="jamie_gittens" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\jamie_gittens.webp" qualifiers="" type="drawable"/><file name="julian_brandt" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\julian_brandt.webp" qualifiers="" type="drawable"/><file name="julian_duranville" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\julian_duranville.webp" qualifiers="" type="drawable"/><file name="julian_ryerson" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\julian_ryerson.webp" qualifiers="" type="drawable"/><file name="karim_adeyemi" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\karim_adeyemi.webp" qualifiers="" type="drawable"/><file name="kjell_watjen" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\kjell_watjen.webp" qualifiers="" type="drawable"/><file name="marcel_lotka" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\marcel_lotka.webp" qualifiers="" type="drawable"/><file name="marcel_sabitzer" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\marcel_sabitzer.webp" qualifiers="" type="drawable"/><file name="maximilian_beier" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\maximilian_beier.webp" qualifiers="" type="drawable"/><file name="nico_schlotterback" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\nico_schlotterback.webp" qualifiers="" type="drawable"/><file name="niklas_sule" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\niklas_sule.webp" qualifiers="" type="drawable"/><file name="nuri_sahin" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\nuri_sahin.jpg" qualifiers="" type="drawable"/><file name="pascal_gross" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\pascal_gross.webp" qualifiers="" type="drawable"/><file name="ramy_bensebaini" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\ramy_bensebaini.webp" qualifiers="" type="drawable"/><file name="serhou_guirassy" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\serhou_guirassy.webp" qualifiers="" type="drawable"/><file name="waldemar_anton" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\waldemar_anton.webp" qualifiers="" type="drawable"/><file name="yan_couto" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\drawable\yan_couto.webp" qualifiers="" type="drawable"/><file name="poppins" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\font\poppins.ttf" qualifiers="" type="font"/><file name="activity_detail" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\layout\activity_detail.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="item_card" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\layout\item_card.xml" qualifiers="" type="layout"/><file name="item_card_layout" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\layout\item_card_layout.xml" qualifiers="" type="layout"/><file name="toolbar_layout" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\layout\toolbar_layout.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-anydpi\ic_launcher.xml" qualifiers="anydpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-anydpi\ic_launcher_round.xml" qualifiers="anydpi-v4" type="mipmap"/><file name="drt" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-anydpi-v26\drt.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="drt_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-anydpi-v26\drt_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="gg" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-anydpi-v26\gg.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="gg_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-anydpi-v26\gg_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="drt" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-hdpi\drt.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="drt_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-hdpi\drt_foreground.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="drt_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-hdpi\drt_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="gg" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-hdpi\gg.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="gg_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-hdpi\gg_foreground.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="gg_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-hdpi\gg_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="drt" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-mdpi\drt.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="drt_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-mdpi\drt_foreground.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="drt_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-mdpi\drt_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="gg" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-mdpi\gg.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="gg_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-mdpi\gg_foreground.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="gg_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-mdpi\gg_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="drt" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xhdpi\drt.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="drt_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xhdpi\drt_foreground.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="drt_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xhdpi\drt_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="gg" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xhdpi\gg.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="gg_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xhdpi\gg_foreground.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="gg_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xhdpi\gg_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="drt" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxhdpi\drt.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="drt_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxhdpi\drt_foreground.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="drt_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxhdpi\drt_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="gg" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxhdpi\gg.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="gg_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxhdpi\gg_foreground.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="gg_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxhdpi\gg_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="drt" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxxhdpi\drt.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="drt_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxxhdpi\drt_foreground.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="drt_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxxhdpi\drt_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="gg" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxxhdpi\gg.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="gg_foreground" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxxhdpi\gg_foreground.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="gg_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxxhdpi\gg_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="player_name">
+        <item>Gregor Kobel</item>
+        <item>Marcel Lotka</item>
+        <item>Alexander Meyer</item>
+        <item>Nico Schlotterbeck</item>
+        <item>Waldemar Anton</item>
+        <item>Niklas Sule</item>
+        <item>Filippo Mane</item>
+        <item>Ramy Bensebaini</item>
+        <item>Algumera Kabar</item>
+        <item>Yan Couto</item>
+        <item>Julian Ryeson</item>
+        <item>Emre Can</item>
+        <item>Felix Nmecha</item>
+        <item>Marcel Sabitzer</item>
+        <item>Pascal Groß</item>
+        <item>Kjell Watjen</item>
+        <item>Julian Brandt</item>
+        <item>Giovanni Reyna</item>
+        <item>Karim Adeyemi</item>
+        <item>Jamie Gittens</item>
+        <item>Donyell Malen</item>
+        <item>Julien Duranville</item>
+        <item>Cole Campbell</item>
+        <item>Serhou Guirassy</item>
+        <item>Maximilian Beirer</item>
+    </string-array><string-array name="player_position">
+        <item>GK</item>
+        <item>GK</item>
+        <item>GK</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>CB</item>
+        <item>LB</item>
+        <item>LB</item>
+        <item>RB</item>
+        <item>RB</item>
+        <item>DMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>CMF</item>
+        <item>AMF</item>
+        <item>AMF</item>
+        <item>LWF</item>
+        <item>LWF</item>
+        <item>RWF</item>
+        <item>RWF</item>
+        <item>RWF</item>
+        <item>CF</item>
+        <item>CF</item>
+    </string-array><string-array name="player_images">
+        <item>@drawable/gregor_kobel</item>
+        <item>@drawable/marcel_lotka</item>
+        <item>@drawable/alexader_meyer</item>
+        <item>@drawable/nico_schlotterback</item>
+        <item>@drawable/waldemar_anton</item>
+        <item>@drawable/niklas_sule</item>
+        <item>@drawable/filippo_mane</item>
+        <item>@drawable/ramy_bensebaini</item>
+        <item>@drawable/almugera_kabar</item>
+        <item>@drawable/yan_couto</item>
+        <item>@drawable/julian_ryerson</item>
+        <item>@drawable/emre_can</item>
+        <item>@drawable/felix_nmecha</item>
+        <item>@drawable/marcel_sabitzer</item>
+        <item>@drawable/pascal_gross</item>
+        <item>@drawable/kjell_watjen</item>
+        <item>@drawable/julian_brandt</item>
+        <item>@drawable/giovanni_reyna</item>
+        <item>@drawable/karim_adeyemi</item>
+        <item>@drawable/jamie_gittens</item>
+        <item>@drawable/donyell_malen</item>
+        <item>@drawable/julian_duranville</item>
+        <item>@drawable/cole_campbell</item>
+        <item>@drawable/serhou_guirassy</item>
+        <item>@drawable/maximilian_beier</item>
+    </string-array><string-array name="player_nationality">
+        <item>Switzerland</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Algeria</item>
+        <item>Germany</item>
+        <item>Brazil</item>
+        <item>Norway</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Austria</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>Germany</item>
+        <item>United States</item>
+        <item>Germany</item>
+        <item>England</item>
+        <item>Netherlands</item>
+        <item>Belgium</item>
+        <item>United States</item>
+        <item>Guinea</item>
+        <item>Germany</item>
+    </string-array><string-array name="player_birth_date">
+        <item>1997-12-06</item>
+        <item>2001-05-25</item>
+        <item>1991-04-13</item>
+        <item>1999-12-01</item>
+        <item>1996-07-20</item>
+        <item>1995-09-03</item>
+        <item>2005-03-08</item>
+        <item>1995-04-16</item>
+        <item>2006-06-06</item>
+        <item>2002-06-03</item>
+        <item>1997-11-17</item>
+        <item>1994-01-12</item>
+        <item>2000-10-10</item>
+        <item>1994-03-17</item>
+        <item>1991-06-15</item>
+        <item>2006-02-16</item>
+        <item>1996-05-02</item>
+        <item>2002-11-12</item>
+        <item>2002-01-18</item>
+        <item>2004-08-08</item>
+        <item>1999-01-19</item>
+        <item>2006-05-05</item>
+        <item>2006-02-20</item>
+        <item>1996-05-12</item>
+        <item>2002-10-17</item>
+    </string-array><string-array name="player_height">
+        <item>196</item>
+        <item>190</item>
+        <item>195</item>
+        <item>191</item>
+        <item>189</item>
+        <item>195</item>
+        <item>188</item>
+        <item>187</item>
+        <item>186</item>
+        <item>168</item>
+        <item>183</item>
+        <item>186</item>
+        <item>190</item>
+        <item>178</item>
+        <item>181</item>
+        <item>183</item>
+        <item>185</item>
+        <item>185</item>
+        <item>180</item>
+        <item>177</item>
+        <item>176</item>
+        <item>173</item>
+        <item>170</item>
+        <item>187</item>
+        <item>185</item>
+    </string-array><string-array name="player_market_value">
+        <item>40.0</item>
+        <item>1.3</item>
+        <item>0.8</item>
+        <item>40.0</item>
+        <item>24.0</item>
+        <item>15.0</item>
+        <item>0.4</item>
+        <item>7.0</item>
+        <item>1.0</item>
+        <item>25.0</item>
+        <item>20.0</item>
+        <item>10.0</item>
+        <item>20.0</item>
+        <item>20.0</item>
+        <item>8.0</item>
+        <item>2.0</item>
+        <item>40.0</item>
+        <item>12.0</item>
+        <item>35.0</item>
+        <item>35.0</item>
+        <item>40.0</item>
+        <item>8.5</item>
+        <item>0.3</item>
+        <item>40.0</item>
+        <item>30.0</item>
+    </string-array><string-array name="player_number">
+        <item>1</item>
+        <item>35</item>
+        <item>33</item>
+        <item>4</item>
+        <item>3</item>
+        <item>25</item>
+        <item>39</item>
+        <item>5</item>
+        <item>42</item>
+        <item>2</item>
+        <item>26</item>
+        <item>23</item>
+        <item>8</item>
+        <item>20</item>
+        <item>13</item>
+        <item>38</item>
+        <item>10</item>
+        <item>7</item>
+        <item>27</item>
+        <item>43</item>
+        <item>21</item>
+        <item>16</item>
+        <item>37</item>
+        <item>9</item>
+        <item>14</item>
+    </string-array></file><file path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\values\colors.xml" qualifiers=""><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="cyan">#00FFFF00</color><color name="gray">#1B1B1B</color></file><file path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\values\drt_background.xml" qualifiers=""><color name="drt_background">#FDFDFD</color></file><file path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\values\gg_background.xml" qualifiers=""><color name="gg_background">#3A2F2E</color></file><file path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">BVB 09</string><string name="detail_description">Detail Description</string><string name="detail_title">Detail Title</string><string name="item_title">Item Title</string><string name="item_description">Item Description</string><string name="item_image">Item Image</string><string name="position_spinner_hint">Filter by Position</string><string name="player_list">Player List</string><string name="manager_name">Nuri Sahin</string><string name="manager">Position: manager</string><string name="title2">Borussia Dortmund Squad List 24/25</string><string name="birth_date_1988_9_5_36_years_old">Birth Date: 1988-9-5 (36 years old)</string><string name="preferred_formation_4_2_3_1">Preferred Formation : 4-2-3-1</string><string name="avg_term_as_coach_1_31_years">Avg. term as coach : 1.31 years</string><string name="nationality_turkiye">Nationality: Turkiye</string><string name="coaching_licence_uefa_a_licence">Coaching Licence : UEFA A Licence</string></file><file path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.UtsPmo" parent="Base.Theme.UtsPmo"/><style name="Base.Theme.UtsPmo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="colorPrimary">#000000</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorPrimaryDark">#BDBDBD</item>
+        <item name="colorAccent">#FF5722</item>
+    </style></file><file path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.UtsPmo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="colorAccent">#FF5722</item>
+    </style></file><file name="backup_rules" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="manager_layout" path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\main\res\layout\manager_layout.xml" qualifiers="" type="layout"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Kuliah\Semester 5\Lab\pemograman mobile\221401122_UTS_LAB_PEMO_4\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

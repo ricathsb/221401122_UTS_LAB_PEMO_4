@@ -1,4 +1,6 @@
 # Aplikasi Informasi Pemain Sepakbola Borussia Dortmund 2024/2025
+Nama :Richard Fajar Christian
+NIM : 221401122
 
 Aplikasi ini menampilkan informasi pemain sepakbola Borussia Dortmund dengan fitur sebagai berikut:
 

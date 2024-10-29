@@ -7,4 +7,12 @@
     <string name="item_image">Item Image</string>
     <string name="position_spinner_hint">Filter by Position</string>
     <string name="player_list">Player List</string>
+    <string name="title2">Borussia Dortmund Squad List 24/25</string>
+    <string name="manager_name">Nuri Sahin</string>
+    <string name="manager">Position: manager</string>
+    <string name="nationality_turkiye">Nationality: Turkiye</string>
+    <string name="birth_date_1988_9_5_36_years_old">Birth Date: 1988-9-5 (36 years old)</string>
+    <string name="preferred_formation_4_2_3_1">Preferred Formation : 4-2-3-1</string>
+    <string name="coaching_licence_uefa_a_licence">Coaching Licence : UEFA A Licence</string>
+    <string name="avg_term_as_coach_1_31_years">Avg. term as coach : 1.31 years</string>
 </resources>

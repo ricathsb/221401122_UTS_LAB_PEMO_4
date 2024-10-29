@@ -1,5 +1,6 @@
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="8dp"
@@ -39,14 +40,14 @@
                     android:layout_height="wrap_content"
                     android:textSize="18sp"
                     android:textStyle="bold"
-                    android:text="Nuri Sahin"/>
+                    android:text="@string/manager_name"/>
 
                 <TextView
                     android:id="@+id/itemDescription"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="14sp"
-                    android:text="Manager"/>
+                    android:text="@string/manager"/>
             </LinearLayout>
         </LinearLayout>
     </RelativeLayout>

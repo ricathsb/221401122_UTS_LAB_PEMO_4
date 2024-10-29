@@ -21,10 +21,8 @@ Pengguna dapat mengganti tema aplikasi antara **Light** dan **Dark**.
 
 ### Filter by Position
 Pengguna dapat memfilter pemain berdasarkan posisi mereka. Misalnya:
-- **GK** (Penjaga Gawang)
-- **CB** (Bek Tengah)
-- **DMF** (Gelandang Bertahan)
-- **RWF** (Penyerang Sayap Kanan)
+- **Goalkeeper** (Penjaga Gawang)
+- **Defender** (Pemain Bertahan)
 
 ## Cara Menjalankan Aplikasi
 

@@ -1,16 +1,18 @@
-<!-- toolbar_layout.xml -->
-<com.google.android.material.appbar.AppBarLayout
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="?attr/colorPrimary"
     android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
-    <androidx.appcompat.widget.Toolbar
-        android:id="@+id/toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
-        android:title="@string/player_list"
-        android:titleTextColor="@android:color/white" />
+    <TextView
+        android:id="@+id/toolbarTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
 
-</com.google.android.material.appbar.AppBarLayout>
+</androidx.appcompat.widget.Toolbar>

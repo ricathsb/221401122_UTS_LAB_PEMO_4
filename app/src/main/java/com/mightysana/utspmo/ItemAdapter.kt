@@ -40,7 +40,6 @@ class ItemAdapter(private val context: Context, private var playerList: List<Pla
         }
     }
 
-
     override fun getItemCount() = playerList.size
 
 

@@ -6,12 +6,38 @@
 
     <include layout="@layout/toolbar_layout" />
 
-    <Spinner
-        android:id="@+id/positionSpinner"
+    <TextView
         android:layout_width="wrap_content"
-        android:layout_height="48dp"
+        android:layout_height="wrap_content"
+        android:text="Borussia Dortmund Squad List 24/25"
+        android:textSize="20sp"
+        android:textStyle="bold"
         android:layout_margin="8dp"
-        android:padding="8dp" />
+        android:layout_gravity="center" />
+
+    <include layout="@layout/item_card_layout"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="8dp"
+        android:padding="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Position:"
+            android:textSize="16sp"
+            android:layout_gravity="center_vertical"
+            android:paddingEnd="8dp"/>
+
+        <Spinner
+            android:id="@+id/positionSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:gravity="center_vertical"
+            android:paddingEnd="16dp"/>
+    </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"

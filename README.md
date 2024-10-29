@@ -1,5 +1,5 @@
 # Aplikasi Informasi Pemain Sepakbola Borussia Dortmund 2024/2025
-Nama :Richard Fajar Christian
+Nama : Richard Fajar Christian
 
 NIM : 221401122
 
@@ -45,5 +45,5 @@ Pengguna dapat memfilter pemain berdasarkan posisi mereka. Misalnya:
 
 Aplikasi ini bertujuan untuk memberikan informasi yang berguna tentang pemain Borussia Dortmund dan memungkinkan pengguna untuk berinteraksi dengan data yang tersedia.
 
----
-
+## Credit
+Data pemain diperoleh dari [Transfermarkt](https://www.transfermarkt.com/borussiadortmund/startseite/verein/16).

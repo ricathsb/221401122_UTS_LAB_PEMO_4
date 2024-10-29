@@ -3,6 +3,8 @@ Nama : Richard Fajar Christian
 
 NIM : 221401122
 
+Lab : Pemograman Mobile 4
+
 Aplikasi ini menampilkan informasi pemain sepakbola Borussia Dortmund dengan fitur sebagai berikut:
 
 - **Ganti Tema (Light/Dark)**

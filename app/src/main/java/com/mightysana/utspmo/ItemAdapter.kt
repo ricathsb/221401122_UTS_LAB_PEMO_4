@@ -12,7 +12,6 @@ import androidx.recyclerview.widget.RecyclerView
 class ItemAdapter(private val context: Context, private var playerList: List<Player>) :
     RecyclerView.Adapter<ItemAdapter.ViewHolder>() {
 
-    // ViewHolder class to hold item views for recycling
     inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val itemTitle: TextView = itemView.findViewById(R.id.itemTitle)
         val itemDescription: TextView = itemView.findViewById(R.id.itemDescription)
@@ -20,7 +19,6 @@ class ItemAdapter(private val context: Context, private var playerList: List<Pla
         val itemNumber: TextView = itemView.findViewById(R.id.itemNumber)
     }
 
-    // Inflates the item layout and returns the ViewHolder
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = LayoutInflater.from(context).inflate(R.layout.item_card, parent, false)
         return ViewHolder(view)
@@ -34,7 +32,6 @@ class ItemAdapter(private val context: Context, private var playerList: List<Pla
         holder.itemImage.setImageResource(player.imageResId)
         holder.itemNumber.text = player.number.toString()
 
-        // Sets a click listener on each item to open DetailActivity with the selected player
         holder.itemView.setOnClickListener {
             val intent = Intent(context, DetailActivity::class.java).apply {
                 putExtra("player", player)
@@ -43,10 +40,10 @@ class ItemAdapter(private val context: Context, private var playerList: List<Pla
         }
     }
 
-    // Returns the total number of items in the list
+
     override fun getItemCount() = playerList.size
 
-    // Updates data when filtered or refreshed
+
     fun updateData(newPlayerList: List<Player>) {
         playerList = newPlayerList
         notifyDataSetChanged()

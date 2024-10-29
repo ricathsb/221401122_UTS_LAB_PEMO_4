@@ -10,9 +10,8 @@
         android:id="@+id/positionSpinner"
         android:layout_width="wrap_content"
         android:layout_height="48dp"
-        android:padding="8dp"
         android:layout_margin="8dp"
-    />
+        android:padding="8dp" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"

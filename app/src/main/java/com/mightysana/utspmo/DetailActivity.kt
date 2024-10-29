@@ -16,14 +16,7 @@ class DetailActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
-
-        val toolbar = findViewById<Toolbar>(R.id.toolbar)
-        setSupportActionBar(toolbar)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true) // Menampilkan tombol back
-
-        toolbar.setNavigationOnClickListener {
-            onBackPressed() // Mengatur tombol back untuk kembali ke aktivitas sebelumnya
-        }
+        setupToolbar()
 
         // Retrieve the Player object passed through the intent
         val player = intent.getSerializableExtra("player") as? Player
@@ -60,18 +53,4 @@ class DetailActivity : AppCompatActivity() {
             }
         }
     }
-}
-
-fun Double.formatAsCurrency(): String {
-    return if (this < 1.0) {
-        "€${(this * 1000).toInt()}k"
-    } else {
-        "€${this} million"
-    }
-}
-
-fun String.age(): String {
-    val today = LocalDate.now()
-    val birthday = LocalDate.parse(this, DateTimeFormatter.ofPattern("yyyy-MM-dd"))
-    return "${Period.between(birthday, today).years} years old"
 }
